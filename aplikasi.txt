@@ -1,0 +1,4 @@
+Aplikasi Absensi
+- Membuat Halaman Login
+- Membuat 3 Fragmen
+- Membuat Scan Code
