@@ -1,4 +1,6 @@
 Aplikasi Absensi
 - Membuat Halaman Login
 - Membuat 3 Fragmen
-- Membuat Scan Code
+- Fragmen 1 beranda
+- Fragmen 2 Scan Code
+- Fragmen 3 Riwayat
